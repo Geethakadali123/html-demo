@@ -1,0 +1,14 @@
+h1,body
+{
+    font-family: Arial;
+}
+body{
+    background-color: grey;
+    margin: auto;
+    width:500px;
+}
+blockquote{
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 0;
+}
